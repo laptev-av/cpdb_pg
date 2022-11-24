@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<opm-metadata xmlns="http://oscript.io/schemas/opm-metadata/1.0">
+    <name>cpdb_pg</name>
+    <version>1.0.1</version>
+    <author>ALaptev</author>
+    <author-email>ALaptev@mail.ru</author-email>
+    <description>Резервное/востановление ИБ на PG</description>
+    <engine-version>1.0.17</engine-version>
+    <depends-on name="1commands" dev="false"/>
+    <depends-on name="fs" dev="false"/>
+    <depends-on name="strings" dev="false"/>
+    <depends-on name="logos" dev="false"/>
+</opm-metadata>
